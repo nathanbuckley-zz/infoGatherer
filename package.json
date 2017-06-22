@@ -1,0 +1,20 @@
+{
+  "name": "eyespy",
+  "version": "0.0.1",
+  "description": "spy on you all ! ",
+  "main": "sysinfo.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "systeminformation": "^3.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gite.brandwatch.com:Brandwatch-Support/infoGather.git"
+  },
+  "author": "nathanbuckley",
+  "license": "MIT"
+}
